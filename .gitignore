@@ -1,0 +1,3 @@
+**/target
+.vscode
+/examples/stm32/src/bin/my-demo.rs

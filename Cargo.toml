@@ -1,0 +1,14 @@
+[package]
+name = "rgb-led-pwm-dma-maker"
+version = "0.1.0"
+edition = "2024"
+authors = ['Dash Campbell']
+description = "Used for creating a PWM waveform using the DMA to control RGB LEDs such as WS2812, WS2812B, SK6812, SK6812-RGBW. Based on Phil's Lab's RGB Led [video](https://www.youtube.com/watch?v=MqbJTj0Cw6o)"
+readme = "README.md"
+license = "MIT OR Apache-2.0"
+repository = ""
+keywords = ["led", "rgb led", "ws2812", "ws2812b", "sk6812"]
+categories = ["data-structures", "embedded", "no-std", "no-std::no-alloc"]
+
+[dependencies]
+defmt = { version = "1.0.1", optional = true }
