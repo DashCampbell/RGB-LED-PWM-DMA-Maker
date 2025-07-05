@@ -15,7 +15,7 @@
 //! let mut dma1_ch2 = p.DMA1_CH2.into_ref();
 //! pwm.waveform_ch1(&mut dma1_ch2, dma_buffer.get_dma_buffer()).await;
 //! ```
-//! Full examples can be found in the [examples]() folder.
+//! Full examples can be found in the `examples` [folder](https://github.com/DashCampbell/RGB-LED-PWM-DMA-Maker/tree/master/examples/stm32).
 
 use core::fmt::Debug;
 
