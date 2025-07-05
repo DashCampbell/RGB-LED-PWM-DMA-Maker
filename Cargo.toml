@@ -7,7 +7,7 @@ description = "Used for creating a PWM waveform using the DMA to control RGB LED
 readme = "README.md"
 license = "MIT OR Apache-2.0"
 repository = "https://github.com/DashCampbell/RGB-LED-PWM-DMA-Maker.git"
-keywords = ["led", "rgb led", "ws2812", "ws2812b", "sk6812"]
+keywords = ["led", "ws2812", "ws2812b", "sk6812"]
 categories = ["data-structures", "embedded", "no-std", "no-std::no-alloc"]
 
 [dependencies]
