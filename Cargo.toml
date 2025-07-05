@@ -1,6 +1,6 @@
 [package]
 name = "rgb-led-pwm-dma-maker"
-version = "0.1.1"
+version = "0.1.2"
 edition = "2024"
 authors = ['Dash Campbell']
 description = "Used for creating a PWM waveform using the DMA to control RGB LEDs such as WS2812, WS2812B, SK6812, SK6812-RGBW."
